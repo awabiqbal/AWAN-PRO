@@ -1,6 +1,3 @@
 import os
-os.system("xdg-open https://www.youtube.com/@awanoficialchannel")
-try:import AWN32
-except Exception as e:
-  if "dlopen fai" in str(e):
-    import AWNNEW
+os.system("xdg-open https://chat.whatsapp.com/LhQ4vryKK9IKqh0LeiY1yy")
+import AWNNEW
