@@ -1,1 +1,3 @@
-import CRTXD
+import os
+print('off')
+exit()
